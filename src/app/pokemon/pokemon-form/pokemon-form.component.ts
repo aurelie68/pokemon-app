@@ -2,7 +2,6 @@ import { Component, Input, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { Pokemon } from '../pokemon';
 import { PokemonService } from '../pokemon.service';
-import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-pokemon-form',

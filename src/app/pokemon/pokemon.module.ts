@@ -23,7 +23,7 @@ const pokemonRoutes: Routes = [
 
 @NgModule({
   declarations: [
-   ListPokemonComponent,
+    ListPokemonComponent,
     DetailPokemonComponent,
     BorderCardDirective,
     PokemonTypeColorPipe,
